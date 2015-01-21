@@ -21,7 +21,7 @@ function setDefaultStyles(){
  
 function drawGraphs(){
     makePie();
-    makeLine();
+    makeVis();
 }
     
 function makePie(){
