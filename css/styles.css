@@ -1,0 +1,45 @@
+canvas{
+    outline: 2px solid grey;
+}
+h1, h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+.wrapper{
+    margin: 0 auto;
+    max-width: 900px;
+    min-width: 900px;
+}
+.heading{
+    margin-right: 70px;
+}
+.buttons{
+    margin-left: -111px;
+    text-align: center;
+}
+button{
+    margin: 0 20px;
+    padding: 15px;
+    color: ghostwhite;
+    background: black;
+    border: none;
+    border-radius: 10px;
+}
+button:active{
+    background: #4e4e4e;
+}
+#pieBtn{
+    margin-right: 170px;
+}
+.myCanvas{
+    margin: 20px auto;
+}
+#pieGraphCanvas{
+    margin-right: 20px;
+}
+footer{
+    text-align: center;
+}
+canvas{
+    background: black;
+}
